@@ -12,6 +12,15 @@
  - Aave token Faucet - https://staging.aave.com/faucet/ - [CHOOSE POLYGON MUMBAI AND V3]
  - V3 testnet addresses [AAVE] - https://docs.aave.com/developers/deployed-contracts/v3-testnet-addresses
 
+ ## Initial imports
+
+ ```
+import {IPool} from "@aave/core-v3/contracts/interfaces/IPool.sol";
+import {IPoolAddressesProvider} from "@aave/core-v3/contracts/interfaces/IPoolAddressesProvider.sol";
+import {IERC20} from "@aave/core-v3/contracts/dependencies/openzeppelin/contracts/IERC20.sol";
+
+```
+
  ## Additionals - Docs & Resources
  - ethers.js : https://docs.ethers.org/v5/
  - learn REACT : https://legacy.reactjs.org/docs/getting-started.html
