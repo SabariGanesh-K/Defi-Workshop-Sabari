@@ -12,6 +12,9 @@
  - Aave token Faucet - https://staging.aave.com/faucet/ - [CHOOSE POLYGON MUMBAI AND V3]
  - V3 testnet addresses [AAVE] - https://docs.aave.com/developers/deployed-contracts/v3-testnet-addresses
 
+ - ERC20 from Openzepellin - https://docs.openzeppelin.com/contracts/2.x/api/token/erc20#IERC20
+ - Pool Docs - https://docs.aave.com/developers/core-contracts/pool
+
  ## Initial imports
 
  ```
